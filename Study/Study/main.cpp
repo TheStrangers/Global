@@ -1,10 +1,12 @@
 ﻿#include "Headers.h"
 #include "Semaphore.h"
+#include "Test.h"
 
 int main()
 {
 	int col_in[3];
 	CSemaphore *Signal1 = new CSemaphore();
+	CYashic *Test = new CYashic;
 
 	printf("Start working.\n");
 	Signal1->Output();
