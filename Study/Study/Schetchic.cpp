@@ -1,16 +1,16 @@
 #include "Schetchic.h"
 
-CSchetchic::CSchetchic() :sch(0);
+CSchetchic::CSchetchic() :sch(0)
 {
 
 };
 
-void CSchetchic::GetVar()
+int CSchetchic::GetVar()
 {
 	return sch;
 };
 
 void CSchetchic::PlusVar()
-{
+{ 
 	sch++;
 };
