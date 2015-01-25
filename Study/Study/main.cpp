@@ -2,6 +2,7 @@
 #include "Semaphore.h"
 #include "Test.h"
 #include "Schetchic.h"
+using namespace std;
 
 int main()
 {

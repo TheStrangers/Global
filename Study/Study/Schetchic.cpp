@@ -5,7 +5,7 @@ CSchetchic::CSchetchic() :sch(0)
 
 };
 
-int CSchetchic::GetVar()
+unsigned int CSchetchic::GetVar()
 {
 	return sch;
 };

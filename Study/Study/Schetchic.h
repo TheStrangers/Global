@@ -8,6 +8,6 @@ public:
 
 	CSchetchic();
 
-	void GetVar();
+	unsigned int GetVar();
 	void PlusVar();
 };
