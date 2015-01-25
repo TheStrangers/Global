@@ -4,6 +4,9 @@
 #include "Schetchic.h"
 #include <conio.h>
 #include <iostream>
+#include <Windows.h>
+
+
 using namespace std;
 
 int main()
@@ -14,7 +17,10 @@ int main()
 	{
 		cout << s1.GetVar() << endl;
 		s1.PlusVar();
+		Sleep(1000);
+		
 	}
-		return 0;
 
+	return 0;
+		
 }
