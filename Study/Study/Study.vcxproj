@@ -65,6 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Schetchic.cpp" />
     <ClCompile Include="Semaphore.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
