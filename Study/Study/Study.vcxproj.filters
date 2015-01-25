@@ -24,9 +24,6 @@
     <ClCompile Include="Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Schetchic.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Semaphore.h">
@@ -36,6 +33,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Schetchic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
