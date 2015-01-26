@@ -4,6 +4,7 @@
 #include "Schetchic.h"
 #include <conio.h>
 #include <iostream>
+#define _CRT_SECURE_NO_WARNINGS
 #include <Windows.h>
 
 

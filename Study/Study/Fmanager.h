@@ -10,6 +10,6 @@ public:
 	CFmanager();
 	~CFmanager();
 
-	void GetMap();
+	void GetMap(char *rd);
 	void ReadMap();
 };
