@@ -1,14 +1,16 @@
-#include "Headers.h"
+#include "Fmanager.h"
 
-void GetMap()
+void CFmanager::GetMap()
 {
+	char rd[]; 
 	FILE *f;
-	f = fopen(*char,"br");
+	f = fopen(*rd[],"br");
 	fread(&dat,sizeof(char),1,f);
-	fclose(имя логического файла);
+	fclose(*rd);
 }
 
-void SetMap()
+/*void  CFmanager::SetMap()
 {
 
 }
+*/
