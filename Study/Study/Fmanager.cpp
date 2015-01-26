@@ -2,11 +2,11 @@
 
 void CFmanager::GetMap()
 {
-	char rd[]; 
+	char rd[20]; 
 	FILE *f;
-	f = fopen(*rd[],"br");
+	f = fopen(*rd,"br");
 	fread(&dat,sizeof(char),1,f);
-	fclose(*rd);
+	fclose(f);
 }
 
 /*void  CFmanager::SetMap()
