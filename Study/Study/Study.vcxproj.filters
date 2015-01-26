@@ -27,6 +27,9 @@
     <ClCompile Include="Schetchic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Semaphore.h">
@@ -39,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Schetchic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fmanager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

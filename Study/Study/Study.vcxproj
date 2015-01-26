@@ -64,12 +64,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Fmanager.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Schetchic.cpp" />
     <ClCompile Include="Semaphore.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Fmanager.h" />
     <ClInclude Include="Headers.h" />
     <ClInclude Include="Schetchic.h" />
     <ClInclude Include="Semaphore.h" />
