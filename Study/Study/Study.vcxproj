@@ -71,6 +71,7 @@
     </ClCompile>
     <ClCompile Include="Schetchic.cpp" />
     <ClCompile Include="Semaphore.cpp" />
+    <ClCompile Include="Stoyanka.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <ItemGroup>
