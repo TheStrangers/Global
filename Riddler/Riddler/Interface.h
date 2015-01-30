@@ -1,4 +1,4 @@
-#include "Headers.h"
+﻿#include "Headers.h"
 
 class CInterface
 {
